@@ -14,8 +14,8 @@ O HasherC é uma ferramenta de linha de comando que permite calcular o hash SHA-
 ### Compilação
 Certifique-se de ter o OpenSSL instalado em seu sistema antes de compilar.
 
-## Sugestão para fins de testes: StegaPRO
-O StegaPRO é uma ferramenta de esteganografia que permite esconder informações em imagens. Também se encontra neste repositório, mas você pode conferir mais detalhes no link abaixo.<br>
+## Sugestão para fins de testes: StegaPro
+O StegaPro é uma ferramenta de esteganografia que permite esconder informações em imagens. Também se encontra neste repositório, mas você pode conferir mais detalhes no link abaixo.<br>
 https://github.com/frtvi/StegaPro
 
 ## Como Contribuir
