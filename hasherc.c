@@ -3,6 +3,7 @@
 #include <string.h>
 #include <openssl/sha.h>
 
+// Code by V. Barbosa
 // Função para calcular o hash SHA-256 de um arquivo
 int calcularHashSHA256(const char *nomeArquivo, unsigned char hash[SHA256_DIGEST_LENGTH]) {
     FILE *arquivo = fopen(nomeArquivo, "rb");
