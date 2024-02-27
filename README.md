@@ -12,7 +12,7 @@ O HasherC é uma ferramenta de linha de comando que permite calcular o hash SHA-
 2. **Comparar arquivos:** Compara dois arquivos verificando se seus hashes são idênticos.
 
 ### Compilação
-Certifique-se de ter o OpenSSL instalado em seu sistema antes de compilar. Use o seguinte comando para compilar:
+Certifique-se de ter o OpenSSL instalado em seu sistema antes de compilar.
 
 ## Sugestão para fins de testes: StegaPRO
 O StegaPRO é uma ferramenta de esteganografia que permite esconder informações em imagens. Ele utiliza técnicas de esteganografia para inserir dados em arquivos de imagem.<br>
