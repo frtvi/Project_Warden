@@ -19,5 +19,5 @@ Certifique-se de ter o OpenSSL instalado em seu sistema antes de compilar. Use o
 O StegaPRO é uma ferramenta de esteganografia que permite esconder informações em imagens. Ele utiliza técnicas de esteganografia para inserir dados em arquivos de imagem, proporcionando uma camada adicional de segurança.<br>
 https://github.com/frtvi/StegaPro
 
-Como Contribuir
-Sinta-se à vontade para contribuir para o projeto. Se encontrar problemas ou tiver melhorias, abra uma issue ou envie um pull request.
+##Como Contribuir
+Sinta-se à vontade para contribuir para o projeto.<br>Se encontrar problemas ou tiver melhorias, abra uma issue ou envie um pull request.
