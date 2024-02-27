@@ -44,7 +44,7 @@ int main() {
     int opcao;
 
     do {
-        // Tela inicial "hacker-style" em ASCII art
+        // Tela inicial em ASCII art
         printf("=====================================\n");
         printf("     Bem-vindo ao Secure Checker\n");
         printf("=====================================\n");
