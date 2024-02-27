@@ -104,9 +104,9 @@ int main() {
                 if (calcularHashSHA256(caminhoArquivo1, hashArquivo1) && calcularHashSHA256(caminhoArquivo2, hashArquivo2)) {
                     // Comparar os hashes e exibir o resultado
                     if (compararHashes(hashArquivo1, hashArquivo2)) {
-                        printf("\nOs arquivos são iguais.\n");
+                        printf("\nOs arquivos sao iguais.\n");
                     } else {
-                        printf("\nOs arquivos são diferentes.\n");
+                        printf("\nOs arquivos sao diferentes.\n");
                     }
                 }
 
