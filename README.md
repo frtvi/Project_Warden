@@ -1,6 +1,6 @@
 # Project Warden
 
-O Project Warden é um repositório para ajudar na verificação de integridade de arquivos, testes e detecção de adulterações. E também segurança da informação em geral.
+O Project Warden é um repositório para ajudar na verificação de integridade de arquivos, testes e detecção de adulterações. E também segurança da informação em geral.<br>
 https://www.wardenproject.site
 
 ## HasherC
